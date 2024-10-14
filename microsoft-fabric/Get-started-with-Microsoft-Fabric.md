@@ -64,6 +64,7 @@ A **Lakehouse** in Microsoft Fabric combines the best features of data lakes and
 ### **Hands-On Practice**
 - **Microsoft Learn** offers interactive modules on Microsoft Fabric that are beginner-friendly.
 - Start by experimenting with **Power BI**—create basic dashboards with sample data. This will help you understand how data visualizations connect to underlying data.
+- To automate your Fabric processes use [Microsoft REST API Documentation](https://learn.microsoft.com/en-us/rest/api/fabric/articles/)
 
 ### **Summary of Concepts:**
 1. **Workspaces**: The container for all your data resources.
