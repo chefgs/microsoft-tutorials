@@ -20,5 +20,5 @@ This repository is created to provide comprehensive guidance and best practices 
    - Refer to [Guide-for-Microsoft-Fabric-CICD.md](Guide-for-Microsoft-Fabric-CICD.md) for comprehensive CI/CD setup and best practices.
 
 **Implement Best Practices**:
-   - Use the guidelines in [Development-Best-Practices-Code-Review-PR-Process.md](microsoft-fabric/Development-Best-Practices-Code-Review-PR-Process.md) to maintain code quality and security.
-   - Follow the recommendations in [Microsoft-Fabric-from-DevOpsEngineer-persepctive.md](microsoft-fabric/Microsoft-Fabric-from-DevOpsEngineer-persepctive.md) to streamline your DevOps processes.
+   - Use the guidelines in [Development-Best-Practices-Code-Review-PR-Process.md](Development-Best-Practices-Code-Review-PR-Process.md) to maintain code quality and security.
+   - Follow the recommendations in [Microsoft-Fabric-from-DevOpsEngineer-persepctive.md](Microsoft-Fabric-from-DevOpsEngineer-persepctive.md) to streamline your DevOps processes.
