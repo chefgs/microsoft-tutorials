@@ -3,7 +3,7 @@
 ## **1. Introduction to Microsoft Fabric**
 Microsoft Fabric is a unified, cloud-based data platform that integrates data engineering, data warehousing, real-time analytics, data integration, and business intelligence (BI) into one cohesive solution. Built on the Azure platform, Microsoft Fabric provides businesses with a simplified approach to managing data, making it easier to gain insights and create interactive visualizations through Power BI.
 
-Here is a comprehensive technical guide with different sections covering Microsoft Fabric, its components, DevOps automation, CI/CD setup, branching strategies, and best practices. This guide is structured to provide a complete overview for getting started and implementing a successful development and deployment workflow.
+Here is a comprehensive technical guide with different sections covering Microsoft Fabric, its components, DevOps automation, CI/CD setup, branching strategies, and best practices. This guide is structured to provide a complete overview for getting started and implementing a successful development and deployment workflow. To automate your Fabric processes use [Microsoft REST API Documentation](https://learn.microsoft.com/en-us/rest/api/fabric/articles/)
 
 ### **Why Microsoft Fabric?**
 - **Integrated Platform**: Consolidates multiple Azure services like Azure Synapse, Power BI, and Data Factory.
